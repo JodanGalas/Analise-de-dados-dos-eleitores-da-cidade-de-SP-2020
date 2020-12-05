@@ -1,4 +1,4 @@
-# Analise de dados públicos dos eleitores do Estado de SP-2020
+# Analise de dados públicos dos eleitores da cidade de São Paulo-2020
 Repositório destinado a entrega do EP4 da matéria de Estrutura de Dados ministrada pelo professor Fernando Masanori.
 
 ## Objetivo
